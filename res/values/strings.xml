@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="zero">0</string>
+    <string name="app_name">Smart Home</string>
+    <string name="login">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logout">Sign out</string>
+    <string-array name="groups">
+        <item>User</item>
+        <item>Admin</item>
+    </string-array>
+    
+    <color name="app_color">#B9121B</color>
+    <color name="text_color">#4C1B1B</color>
+    
+    <string name="device_01">Fan</string>
+    <string name="device_02">LED</string>
+</resources>
